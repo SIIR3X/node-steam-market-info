@@ -1,0 +1,8 @@
+node_modules
+tests
+docs
+examples
+.git
+.gitignore
+package-lock.json
+jsdoc.json
