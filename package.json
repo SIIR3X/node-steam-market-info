@@ -1,6 +1,6 @@
 {
 	"name": "steam-market-info",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A Node.js module to retrieve item information from the Steam Market.",
 	"main": "src/index.js",
 	"scripts": {
